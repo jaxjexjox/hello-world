@@ -1,1 +1,3 @@
-I feel that this file is important to the project, lmao?
+I feel that this file is very special to the project, lmao?
+# we have decided to change the wording in this project, ok?
+
